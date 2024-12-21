@@ -1,0 +1,10 @@
+/* body{
+    background-color: navy;
+} */
+.txt{
+    border: 2px solid yellow;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: tomato;
+    padding: 5px;
+}

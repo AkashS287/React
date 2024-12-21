@@ -1,0 +1,23 @@
+.Font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+}
+.box{
+    border: 2px solid hsla(78, 94%, 49%, 0.959);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    box-shadow: 5px 5px 5px 2px;
+    box-sizing:content-box;
+    max-width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.category{
+    border: 2px solid lavender;
+    border-radius: 10px;
+    background-color: gold;
+    text-align: center;
+}
